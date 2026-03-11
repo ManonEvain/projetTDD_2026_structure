@@ -20,7 +20,7 @@ Votre fichier README.md doit contenir les informations suivantes :
 ```mermaid
 flowchart LR
 
-    U[Utilisateur]
+    U((🧑))
     UI[Interface]
     S[Services]
     M[Models]
