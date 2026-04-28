@@ -33,7 +33,10 @@ flowchart LR
 
     S -->|renvois| UI
     UI -->|transmets| U
-``` 
+```
+
+## Information sur le fichier LICENSE
+https://ludo2ne.github.io/ENSAI-2A-Projet-info/doc/divers/licences.html
 
 ## Rappel sur les tests  
 
